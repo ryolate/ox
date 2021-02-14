@@ -6,11 +6,7 @@ module.exports = {
         path: path.resolve(__dirname, 'docs'),
         filename: 'generated_app.js'
     },
-    mode: "development",
-    devtool: "inline-source-map",
-    devServer: {
-        contentBase: './docs',
-    },
+    mode: "production",
     module: {
         rules: [
             {
@@ -23,4 +19,4 @@ module.exports = {
             }
         ]
     }
-};
+}

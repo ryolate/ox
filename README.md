@@ -5,3 +5,11 @@
 ```
 npm run start
 ```
+
+## Release
+
+```
+npm run build:prod
+...
+git push
+```
