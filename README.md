@@ -1,5 +1,7 @@
 # Toy React App
 
+Toy React App based on https://reactjs.org/tutorial/tutorial.html
+
 ### Development
 
 ```
